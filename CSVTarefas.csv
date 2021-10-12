@@ -1,0 +1,1043 @@
+verbo_inicial,substantivo,categoria,subcategoria,horas
+Adicionar,Auditoria,Operacional,Suporte Interno,0.7
+Adicionar,Auditoria,Desenvolvimento,Aprimoramento,4
+Adicionar,Botão,Desenvolvimento,Erro,1
+Adicionar,Botão,Desenvolvimento,Aprimoramento,2.25
+Adicionar,Botão,Desenvolvimento,Aprimoramento,2.62
+Adicionar,Caixa de Texto,Desenvolvimento,Aprimoramento,2.5
+Adicionar,Campo,Desenvolvimento,Aprimoramento,1
+Adicionar,Campo,Desenvolvimento,Aprimoramento,0.5
+Adicionar,Campos,Desenvolvimento,Aprimoramento,1.75
+Adicionar,Campos,Desenvolvimento,Aprimoramento,1.75
+Adicionar,Carregador,Desenvolvimento,Aprimoramento,3.5
+Adicionar,Classes,Desenvolvimento,Aprimoramento,2
+Adicionar,Classes,Desenvolvimento,Aprimoramento,2.25
+Adicionar,Coluna,Desenvolvimento,Aprimoramento,1
+Adicionar,Coluna,Desenvolvimento,Aprimoramento,0.5
+Adicionar,Coluna,Desenvolvimento,Aprimoramento,0.25
+Adicionar,Coluna,Desenvolvimento,Aprimoramento,0.5
+Adicionar,Critérios de Pesquisa,Desenvolvimento,Aprimoramento,7
+Adicionar,Dados,Desenvolvimento,Aprimoramento,0.25
+Adicionar,Descrição,Desenvolvimento,Aprimoramento,1.75
+Adicionar,Divisores,Desenvolvimento,Aprimoramento,3.75
+Adicionar,Documentação,Desenvolvimento,Aprimoramento,1.25
+Adicionar,Documentação,Desenvolvimento,Lançamento,0.75
+Adicionar,Entrada,Operacional,Suporte Interno,2.5
+Adicionar,Escalas,Desenvolvimento,Aprimoramento,3
+Adicionar,Estatística,Desenvolvimento,Aprimoramento,4
+Adicionar,Exclusão,Desenvolvimento,Aprimoramento,3.96
+Adicionar,Filtro,Desenvolvimento,Erro,7.5
+Adicionar,Filtro,Desenvolvimento,Aprimoramento,14
+Adicionar,Foto,Desenvolvimento,Aprimoramento,6.02
+Adicionar,Funcionalidade de Email,Desenvolvimento,Aprimoramento,6
+Adicionar,Guia,Desenvolvimento,Aprimoramento,4
+Adicionar,Histórico,Desenvolvimento,Aprimoramento,8.7
+Adicionar,Horários,Desenvolvimento,Aprimoramento,16.75
+Adicionar,Imagens,Desenvolvimento,Aprimoramento,1.25
+Adicionar,Licença,Desenvolvimento,Aprimoramento,11
+Adicionar,Limites,Desenvolvimento,Aprimoramento,1
+Adicionar,Limites,Desenvolvimento,Erro,1
+Adicionar,Livro de Figuras,Desenvolvimento,Aprimoramento,7
+Adicionar,Logo,Desenvolvimento,Aprimoramento,0.25
+Adicionar,Mensagem,Desenvolvimento,Aprimoramento,3.1
+Adicionar,Moedas,Desenvolvimento,Aprimoramento,4.5
+Adicionar,Nome,Operacional,Suporte ao Cliente,1
+Adicionar,Opção,Desenvolvimento,Aprimoramento,0.7
+Adicionar,Opção,Desenvolvimento,Erro,1
+Adicionar,Ordem,Desenvolvimento,Aprimoramento,11.5
+Adicionar,Pagamento,Desenvolvimento,Aprimoramento,6
+Adicionar,Permissões,Desenvolvimento,Aprimoramento,4
+Adicionar,Pesquisa,Desenvolvimento,Aprimoramento,7
+Adicionar,Política,Desenvolvimento,Erro,0.5
+Adicionar,Recurso,Desenvolvimento,Aprimoramento,10.5
+Adicionar,Referência,Desenvolvimento,Aprimoramento,0.7
+Adicionar,Referência,Desenvolvimento,Aprimoramento,0.75
+Adicionar,Referência,Desenvolvimento,Aprimoramento,1
+Adicionar,Relatório,Desenvolvimento,Aprimoramento,5.86
+Adicionar,Relatórios,Gestão,Marketing,16
+Adicionar,Rota,Operacional,Consultoria,0.5
+Adicionar,Salvamento,Desenvolvimento,Aprimoramento,5
+Adicionar,Script,Desenvolvimento,Aprimoramento,3.5
+Adicionar,Seção,Desenvolvimento,Erro,5
+Adicionar,Seção,Desenvolvimento,Aprimoramento,1.4
+Adicionar,Seção,Desenvolvimento,Aprimoramento,1.5
+Adicionar,Seção,Desenvolvimento,Erro,2.5
+Adicionar,Seção,Operacional,Suporte ao Cliente,2.75
+Adicionar,Seção,Desenvolvimento,Aprimoramento,4
+Adicionar,Sistema,Desenvolvimento,Aprimoramento,13.5
+Adicionar,Tabela,Desenvolvimento,Aprimoramento,1.75
+Adicionar,Tabelas,Desenvolvimento,Aprimoramento,1.75
+Adicionar,Tempo Limite,Desenvolvimento,Aprimoramento,1
+Adicionar,Testes,Desenvolvimento,Lançamento,2.5
+Adicionar,Texto,Gestão,Marketing,2.5
+Adicionar,Tipos de Documentos,Desenvolvimento,Aprimoramento,1
+Adicionar,Tipos de Documentos,Desenvolvimento,Aprimoramento,2
+Adicionar,Tratamento de Erros,Desenvolvimento,Erro,0.7
+Adicionar,Usuário,Operacional,Suporte ao Cliente,0.6
+Adicionar,Usuário,Desenvolvimento,Suporte Interno,0.75
+Adicionar,Validação,Desenvolvimento,Aprimoramento,1.5
+Adicionar,Vários Documentos,Desenvolvimento,Aprimoramento,17.75
+Adicionar,Website,Gestão,Marketing,4
+Aprender,C#,Desenvolvimento,Treinamento,3.43
+Aprender,C#,Desenvolvimento,Treinamento,4
+Aprender,C#,Desenvolvimento,Treinamento,5.51
+Aprender,C# e SQL,Desenvolvimento,Treinamento,5
+Aprender,Design,Desenvolvimento,Documentação,13.5
+Atualizar,Acesso,Operacional,Suporte Interno,4.75
+Atualizar,Banco,Operacional,Suporte Interno,2.5
+Atualizar,Banco,Desenvolvimento,Aprimoramento,10.5
+Atualizar,Cálculo,Desenvolvimento,Aprimoramento,3.5
+Atualizar,Cálculo,Desenvolvimento,Erro,6.5
+Atualizar,Campo,Desenvolvimento,Aprimoramento,0.5
+Atualizar,Campo,Desenvolvimento,Aprimoramento,1.5
+Atualizar,Campos,Desenvolvimento,Aprimoramento,3.5
+Atualizar,Campos,Desenvolvimento,Aprimoramento,4.5
+Atualizar,Carregador,Desenvolvimento,Aprimoramento,19
+Atualizar,Carregador,Desenvolvimento,Aprimoramento,35.5
+Atualizar,Certificado,Operacional,Suporte Interno,0.75
+Atualizar,Certificado,Operacional,Suporte Interno,1.25
+Atualizar,Chave,Operacional,Suporte Interno,0.33
+Atualizar,Chave,Desenvolvimento,Suporte Interno,0.5
+Atualizar,Classes,Desenvolvimento,Aprimoramento,6
+Atualizar,Comparador,Desenvolvimento,Aprimoramento,3
+Atualizar,Comparador,Desenvolvimento,Aprimoramento,4.02
+Atualizar,Conta,Desenvolvimento,Aprimoramento,11
+Atualizar,Conversão,Desenvolvimento,Aprimoramento,21
+Atualizar,Correções,Operacional,Suporte Interno,3.5
+Atualizar,Cronograma,Operacional,Suporte Interno,1
+Atualizar,Dados,Desenvolvimento,Aprimoramento,0.7
+Atualizar,Dados,Operacional,Suporte Interno,0.7
+Atualizar,Demonstração,Desenvolvimento,Lançamento,7.5
+Atualizar,Documentação,Desenvolvimento,Documentação,2.84
+Atualizar,Documentação,Operacional,Suporte Interno,3.5
+Atualizar,Documentação,Desenvolvimento,Aprimoramento,8.75
+Atualizar,Estatística,Desenvolvimento,Erro,7
+Atualizar,Firewall,Operacional,Suporte Interno,3.5
+Atualizar,Fluxo,Gestão,Documentação,2
+Atualizar,Gerador,Desenvolvimento,Aprimoramento,3.8
+Atualizar,Grade,Desenvolvimento,Aprimoramento,11
+Atualizar,Grade,Desenvolvimento,Aprimoramento,21.75
+Atualizar,Horários,Desenvolvimento,Aprimoramento,9
+Atualizar,Laptop,Operacional,Suporte Interno,3.5
+Atualizar,Licença,Operacional,Suporte Interno,0.5
+Atualizar,Licença,Operacional,Suporte ao Cliente,1.75
+Atualizar,Logo,Desenvolvimento,Erro,0.75
+Atualizar,Logo,Desenvolvimento,Aprimoramento,5
+Atualizar,Material,Gestão,Marketing,15
+Atualizar,Movimento,Desenvolvimento,Aprimoramento,0.5
+Atualizar,Nome,Desenvolvimento,Aprimoramento,0.3
+Atualizar,Nome,Desenvolvimento,Aprimoramento,0.5
+Atualizar,Nome,Operacional,Suporte ao Cliente,2
+Atualizar,Objeto de Negócio,Desenvolvimento,Aprimoramento,3.48
+Atualizar,Office,Operacional,Suporte Interno,1.25
+Atualizar,Office,Operacional,Suporte Interno,1.5
+Atualizar,Ordem,Desenvolvimento,Aprimoramento,0.25
+Atualizar,Pesquisa,Desenvolvimento,Aprimoramento,2
+Atualizar,Procedimentos,Desenvolvimento,Aprimoramento,4.75
+Atualizar,Procedimentos,Desenvolvimento,Aprimoramento,5.25
+Atualizar,Procedimentos,Desenvolvimento,Aprimoramento,6.25
+Atualizar,Programa,Operacional,Suporte Interno,6
+Atualizar,Programa,Desenvolvimento,Aprimoramento,10.75
+Atualizar,Relatório,Desenvolvimento,Aprimoramento,1.4
+Atualizar,Script,Desenvolvimento,Aprimoramento,10
+Atualizar,Servidor,Desenvolvimento,Suporte Interno,1.5
+Atualizar,Servidor,Operacional,Suporte Interno,2
+Atualizar,Servidor,Operacional,Suporte Interno,5.5
+Atualizar,Servidor,Operacional,Suporte Interno,2
+Atualizar,Tabela,Desenvolvimento,Suporte Interno,0.5
+Atualizar,Tarefas,Desenvolvimento,Aprimoramento,1.25
+Atualizar,Tela,Desenvolvimento,Aprimoramento,0.5
+Atualizar,Teste,Desenvolvimento,Teste,7
+Atualizar,Título,Desenvolvimento,Aprimoramento,0.25
+Atualizar,Validação,Desenvolvimento,Erro,5
+Atualizar,Versão,Desenvolvimento,Aprimoramento,0.5
+Atualizar,Website,Desenvolvimento,Aprimoramento,13
+Atualizar,Website,Desenvolvimento,Aprimoramento,16.5
+Atualizar,Website,Desenvolvimento,Aprimoramento,46
+Atualizar,Windows,Operacional,Suporte Interno,0.5
+Automatizar,Regressão,Desenvolvimento,Aprimoramento,20.5
+Automatizar,Relatório,Desenvolvimento,Aprimoramento,8
+Automatizar,Testes,Desenvolvimento,Aprimoramento,94.34
+Backup,Demonstração,Operacional,Suporte Interno,3.75
+Backup,Email,Operacional,Suporte Interno,4.76
+Backup,Lançamento,Desenvolvimento,Lançamento,0.75
+Backup,Lançamento,Desenvolvimento,Lançamento,0.75
+Backup,Lançamento,Desenvolvimento,Lançamento,0.75
+Backup,Lançamento,Desenvolvimento,Lançamento,0.75
+Backup,Laptop,Operacional,Suporte Interno,1
+Backup,Servidor,Operacional,Suporte Interno,1
+Backup,Servidor,Operacional,Suporte Interno,1.5
+Backup,Versão,Desenvolvimento,Lançamento,0.25
+Backup,Versão,Desenvolvimento,Lançamento,0.5
+Backup,Versão,Desenvolvimento,Lançamento,0.75
+Backup,Versão,Desenvolvimento,Lançamento,1
+Backup,Versão,Desenvolvimento,Lançamento,1
+Backup,Versão,Desenvolvimento,Lançamento,1
+Configurar,Acesso,Operacional,Suporte Interno,1.25
+Configurar,Ambiente,Desenvolvimento,Lançamento,3.25
+Configurar,Assinaturas,Desenvolvimento,Aprimoramento,0.5
+Configurar,Backup,Desenvolvimento,Aprimoramento,0.5
+Configurar,Banco,Desenvolvimento,Aprimoramento,2.5
+Configurar,Banco,Desenvolvimento,Lançamento,3
+Configurar,Carregador,Desenvolvimento,Aprimoramento,8.5
+Configurar,Certificado,Operacional,Suporte Interno,7
+Configurar,Código,Desenvolvimento,Aprimoramento,6.3
+Configurar,Conta,Operacional,Suporte Interno,1
+Configurar,Conta,Operacional,Suporte Interno,1.5
+Configurar,Dados,Desenvolvimento,Suporte Interno,4.5
+Configurar,Email,Operacional,Suporte Interno,1
+Configurar,Laptop,Operacional,Suporte Interno,2.5
+Configurar,Laptop,Operacional,Suporte Interno,2.5
+Configurar,Laptop,Operacional,Suporte Interno,2.5
+Configurar,Mensagem,Desenvolvimento,Aprimoramento,0.5
+Configurar,Permissões,Operacional,Suporte ao Cliente,3
+Configurar,Pesquisa,Gestão,Marketing,11.5
+Configurar,Programa,Gestão,Marketing,4
+Configurar,Servidor,Operacional,Suporte Interno,2
+Configurar,Sistema,Desenvolvimento,Suporte Interno,1.5
+Configurar,Sistema,Desenvolvimento,Treinamento,1.5
+Configurar,Sistema,Desenvolvimento,Aprimoramento,2
+Configurar,Twitter,Gestão,Marketing,2
+Configurar,Usuário,Operacional,Suporte ao Cliente,0.25
+Configurar,Usuário,Operacional,Suporte ao Cliente,0.25
+Configurar,Usuário,Operacional,Suporte ao Cliente,0.33
+Configurar,Usuário,Operacional,Suporte Interno,0.35
+Configurar,Usuário,Desenvolvimento,Suporte Interno,0.5
+Configurar,Usuário,Desenvolvimento,Suporte Interno,0.5
+Configurar,Usuário,Operacional,Suporte ao Cliente,1
+Configurar,Versão,Operacional,Suporte Interno,0.5
+Configurar,Versão,Desenvolvimento,Treinamento,3.5
+Configurar,Website,Operacional,Suporte ao Cliente,0.5
+Configurar,Website,Operacional,Suporte Interno,2
+Converter,Banco,Desenvolvimento,Aprimoramento,5.09
+Converter,Grade,Desenvolvimento,Aprimoramento,8
+Converter,Importador,Desenvolvimento,Aprimoramento,8
+Converter,Menu e Barra de Ferramentas,Desenvolvimento,Aprimoramento,19
+Converter,Painéis,Desenvolvimento,Aprimoramento,6.5
+Converter,Relatórios,Desenvolvimento,Aprimoramento,96.27
+Converter,Sistema,Desenvolvimento,Teste,31
+Converter,Tarefas,Desenvolvimento,Aprimoramento,3.34
+Converter,Tela,Desenvolvimento,Aprimoramento,29.89
+Corrigir,Acesso,Desenvolvimento,Erro,0.7
+Corrigir,Adição,Desenvolvimento,Erro,0.5
+Corrigir,Adição,Desenvolvimento,Erro,0.5
+Corrigir,Adição,Desenvolvimento,Erro,1.5
+Corrigir,Adição,Desenvolvimento,Erro,1.5
+Corrigir,Adição,Desenvolvimento,Erro,0.5
+Corrigir,Assinaturas,Desenvolvimento,Erro,7
+Corrigir,Atualização,Desenvolvimento,Erro,0.5
+Corrigir,Backup,Operacional,Suporte Interno,6.75
+Corrigir,Caixa de Seleção,Desenvolvimento,Erro,8.5
+Corrigir,Caixa de Texto,Desenvolvimento,Erro,1.75
+Corrigir,Cálculo,Desenvolvimento,Erro,3.5
+Corrigir,Cálculo,Desenvolvimento,Erro,4.5
+Corrigir,Conexão,Desenvolvimento,Erro,3.15
+Corrigir,Controle de Guia,Desenvolvimento,Erro,0.5
+Corrigir,Controle de Notas,Desenvolvimento,Erro,5
+Corrigir,Controle de Pesquisa,Desenvolvimento,Erro,0.7
+Corrigir,Criação,Desenvolvimento,Erro,0.5
+Corrigir,Criação,Desenvolvimento,Erro,1.5
+Corrigir,Dados,Desenvolvimento,Aprimoramento,2
+Corrigir,Data,Desenvolvimento,Erro,2.23
+Corrigir,Documentação,Desenvolvimento,Erro,5.58
+Corrigir,Download,Desenvolvimento,Erro,4
+Corrigir,Download,Desenvolvimento,Erro,6
+Corrigir,Erro,Desenvolvimento,Erro,3
+Corrigir,Erro,Desenvolvimento,Erro,1.25
+Corrigir,Erro,Desenvolvimento,Erro,1
+Corrigir,Erro,Desenvolvimento,Erro,1
+Corrigir,Erro,Desenvolvimento,Erro,1.25
+Corrigir,Erro,Desenvolvimento,Erro,1.75
+Corrigir,Erro,Desenvolvimento,Erro,2
+Corrigir,Erro,Operacional,Suporte Interno,2.5
+Corrigir,Erro,Desenvolvimento,Erro,3
+Corrigir,Erro,Desenvolvimento,Erro,3
+Corrigir,Erro,Gestão,Suporte ao Cliente,3
+Corrigir,Erros,Desenvolvimento,Aprimoramento,2
+Corrigir,Erros,Desenvolvimento,Aprimoramento,2
+Corrigir,Erros,Desenvolvimento,Erro,2.5
+Corrigir,Erros,Desenvolvimento,Erro,2.5
+Corrigir,Erros,Desenvolvimento,Erro,2.5
+Corrigir,Erros,Desenvolvimento,Erro,2.75
+Corrigir,Erros,Desenvolvimento,Aprimoramento,3.25
+Corrigir,Erros,Operacional,Suporte Interno,3.5
+Corrigir,Exclusão,Desenvolvimento,Erro,21.75
+Corrigir,Exportação,Desenvolvimento,Erro,3.5
+Corrigir,Gerador,Desenvolvimento,Erro,2
+Corrigir,Laptop,Operacional,Suporte Interno,6.6
+Corrigir,Lista,Desenvolvimento,Erro,5
+Corrigir,Login,Desenvolvimento,Erro,3
+Corrigir,Mensagem,Operacional,Suporte ao Cliente,1.5
+Corrigir,Mensagem,Desenvolvimento,Erro,3
+Corrigir,Mensagem,Desenvolvimento,Suporte Interno,2.25
+Corrigir,Mensagem,Desenvolvimento,Aprimoramento,4
+Corrigir,Mensagem,Operacional,Suporte ao Cliente,4
+Corrigir,Moedas,Desenvolvimento,Erro,1.5
+Corrigir,Pendências,Desenvolvimento,Lançamento,7
+Corrigir,Permissões,Operacional,Suporte Interno,2
+Corrigir,Pesquisa,Desenvolvimento,Erro,1.25
+Corrigir,Referência,Desenvolvimento,Suporte Interno,0.5
+Corrigir,Relatório,Desenvolvimento,Erro,2.5
+Corrigir,Relatório,Desenvolvimento,Erro,2.5
+Corrigir,Relatório,Desenvolvimento,Aprimoramento,3
+Corrigir,Relatório,Desenvolvimento,Erro,3
+Corrigir,Salvamento,Desenvolvimento,Erro,1
+Corrigir,Salvamento,Desenvolvimento,Erro,5.5
+Corrigir,Script,Desenvolvimento,Erro,1
+Corrigir,SQL,Desenvolvimento,Erro,0.5
+Corrigir,SQL,Desenvolvimento,Erro,1.8
+Corrigir,SQL Server,Desenvolvimento,Erro,2.5
+Corrigir,Tela,Desenvolvimento,Erro,1.25
+Corrigir,Teste de Liberação,Desenvolvimento,Erro,12.15
+Corrigir,Travamento,Desenvolvimento,Erro,0.7
+Corrigir,Validação,Desenvolvimento,Aprimoramento,0.25
+Corrigir,Validação,Desenvolvimento,Erro,0.5
+Corrigir,Validação,Desenvolvimento,Erro,0.7
+Corrigir,Validação,Desenvolvimento,Erro,0.7
+Corrigir,Validação,Desenvolvimento,Erro,1
+Corrigir,Validação,Desenvolvimento,Erro,1
+Corrigir,Validação,Desenvolvimento,Erro,1.25
+Corrigir,Validação,Desenvolvimento,Aprimoramento,1.5
+Corrigir,Validação,Desenvolvimento,Erro,1.75
+Corrigir,Validação,Desenvolvimento,Erro,3
+Corrigir,Validação,Desenvolvimento,Erro,3.5
+Corrigir,Vazamento de Memória,Desenvolvimento,Erro,2
+Corrigir,Visual Studio,Desenvolvimento,Treinamento,0.75
+Corrigir,Visual Studio,Operacional,Suporte Interno,1
+Corrigir,Windows,Operacional,Suporte Interno,1.12
+Criar,Arquivos,Desenvolvimento,Aprimoramento,0.5
+Criar,Banco,Desenvolvimento,Aprimoramento,1.75
+Criar,Banco,Desenvolvimento,Lançamento,2.06
+Criar,Banco,Desenvolvimento,Lançamento,3
+Criar,Banco,Desenvolvimento,Lançamento,4.75
+Criar,Banco,Desenvolvimento,Suporte Interno,7.5
+Criar,Botão,Desenvolvimento,Aprimoramento,16.63
+Criar,Carregador,Desenvolvimento,Aprimoramento,16.5
+Criar,Chave,Operacional,Suporte Interno,0.5
+Criar,Classes,Desenvolvimento,Aprimoramento,13.5
+Criar,Controle,Desenvolvimento,Aprimoramento,5
+Criar,CSV,Desenvolvimento,Aprimoramento,14.75
+Criar,Documentação,Gestão,Documentação,2
+Criar,Documentação,Desenvolvimento,Documentação,1.5
+Criar,Exceção,Desenvolvimento,Erro,1.5
+Criar,Formulários,Gestão,Documentação,2.25
+Criar,Funcionalidade,Desenvolvimento,Aprimoramento,16.75
+Criar,Gerador,Desenvolvimento,Aprimoramento,10.37
+Criar,Grade,Desenvolvimento,Aprimoramento,3
+Criar,Importador de Arquivos,Desenvolvimento,Treinamento,98.75
+Criar,Licença,Operacional,Suporte Interno,0.25
+Criar,Licença,Operacional,Suporte ao Cliente,0.5
+Criar,Licença,Operacional,Suporte ao Cliente,0.5
+Criar,Licença,Operacional,Suporte Interno,0.5
+Criar,Lista,Desenvolvimento,Documentação,0.75
+Criar,Manual,Desenvolvimento,Erro,0.7
+Criar,Manual,Desenvolvimento,Erro,0.75
+Criar,Material,Operacional,Documentação,11.75
+Criar,Mensagem,Desenvolvimento,Aprimoramento,5
+Criar,Mudanças,Operacional,Consultoria,2.5
+Criar,Nova Pesquisa,Desenvolvimento,Aprimoramento,15.5
+Criar,Objeto de Negócio,Desenvolvimento,Aprimoramento,14
+Criar,Pagamento,Desenvolvimento,Aprimoramento,45.83
+Criar,Pagamento,Desenvolvimento,Aprimoramento,72.5
+Criar,Página,Gestão,Marketing,5
+Criar,Página,Desenvolvimento,Aprimoramento,10.5
+Criar,Painéis,Desenvolvimento,Aprimoramento,59.25
+Criar,Pesquisa Adicional,Desenvolvimento,Aprimoramento,2.75
+Criar,Pesquisa Automática,Desenvolvimento,Aprimoramento,16
+Criar,Planilha,Gestão,Marketing,13
+Criar,Plano,Gestão,Marketing,6.25
+Criar,Plano,Operacional,Documentação,12
+Criar,Plano,Desenvolvimento,Teste,5
+Criar,Política,Desenvolvimento,Erro,4.5
+Criar,Procedimentos,Desenvolvimento,Aprimoramento,5.5
+Criar,Processamento,Desenvolvimento,Aprimoramento,1.5
+Criar,Relatório,Desenvolvimento,Aprimoramento,3.5
+Criar,Relatório,Desenvolvimento,Documentação,5.5
+Criar,Relatórios,Desenvolvimento,Aprimoramento,7
+Criar,Relatórios,Desenvolvimento,Lançamento,0.5
+Criar,Repositório,Desenvolvimento,Aprimoramento,13.25
+Criar,Roteamento,Operacional,Consultoria,6.75
+Criar,Script,Desenvolvimento,Aprimoramento,8.5
+Criar,Script,Desenvolvimento,Aprimoramento,9.5
+Criar,Script,Desenvolvimento,Aprimoramento,10.5
+Criar,Script,Desenvolvimento,Aprimoramento,27.5
+Criar,Script,Desenvolvimento,Aprimoramento,63.85
+Criar,Sistema,Desenvolvimento,Aprimoramento,8.8
+Criar,Sistema,Desenvolvimento,Aprimoramento,22.25
+Criar,Sistema,Desenvolvimento,Aprimoramento,52.75
+Criar,Tela,Desenvolvimento,Aprimoramento,37.8
+Criar,Teste,Gestão,Documentação,2.5
+Criar,Usuário,Operacional,Suporte ao Cliente,1
+Criar,Usuário,Desenvolvimento,Aprimoramento,1.5
+Criar,Versão,Gestão,Suporte ao Cliente,2
+Criar,VPN,Operacional,Consultoria,2
+Definir,Banco,Desenvolvimento,Aprimoramento,17.69
+Definir,Estrutura,Desenvolvimento,Aprimoramento,7.6
+Definir,Limites,Desenvolvimento,Erro,4
+Definir,Tela,Desenvolvimento,Aprimoramento,21.66
+Escrever,Alterações,Desenvolvimento,Documentação,2
+Escrever,Arquivos,Operacional,Suporte Interno,5
+Escrever,Código,Desenvolvimento,Aprimoramento,5
+Escrever,Documentação,Gestão,Documentação,2.75
+Escrever,Documentação,Operacional,Consultoria,10.75
+Escrever,Licença,Desenvolvimento,Aprimoramento,39.55
+Escrever,Manual,Desenvolvimento,Documentação,11
+Escrever,Manual,Operacional,Documentação,14
+Escrever,Opção,Operacional,Suporte Interno,2
+Escrever,Plano,Desenvolvimento,Documentação,1
+Escrever,Relatório,Desenvolvimento,Aprimoramento,4
+Escrever,Tarefas,Gestão,Marketing,3
+Escrever,Teste de Estresse,Desenvolvimento,Aprimoramento,26.52
+Escrever,Texto,Gestão,Marketing,6
+Instalar,Drivers,Operacional,Suporte Interno,0.5
+Instalar,Extensão,Operacional,Suporte Interno,6.5
+Instalar,Laptop,Operacional,Suporte Interno,5.5
+Instalar,Licença,Operacional,Suporte ao Cliente,2
+Instalar,Licença,Desenvolvimento,Lançamento,4
+Instalar,Office,Operacional,Suporte Interno,1.89
+Instalar,Plug-in,Desenvolvimento,Suporte Interno,9.88
+Instalar,Programa,Operacional,Suporte Interno,2
+Instalar,Programa,Desenvolvimento,Suporte Interno,3.22
+Instalar,Programa,Desenvolvimento,Teste,7
+Instalar,Relatórios,Operacional,Suporte Interno,7
+Instalar,SQL,Desenvolvimento,Lançamento,2.5
+Instalar,SQL Server,Operacional,Suporte Interno,0.75
+Instalar,SQL Server,Operacional,Suporte Interno,1
+Instalar,Visual Studio,Operacional,Suporte Interno,4
+Instalar,Windows,Operacional,Suporte Interno,4
+Investigar,Backup,Operacional,Suporte Interno,1.75
+Investigar,Banco,Operacional,Suporte Interno,1.75
+Investigar,Coluna,Desenvolvimento,Erro,1
+Investigar,Conexão,Operacional,Consultoria,0.5
+Investigar,Configuração,Operacional,Suporte Interno,1.27
+Investigar,Correções,Operacional,Suporte ao Cliente,1
+Investigar,Criação,Operacional,Documentação,2.5
+Investigar,Dados,Desenvolvimento,Erro,2.2
+Investigar,Dados,Operacional,Suporte ao Cliente,4.5
+Investigar,Desempenho,Operacional,Suporte Interno,3.75
+Investigar,Desempenho,Desenvolvimento,Erro,5.25
+Investigar,Discrepâncias,Operacional,Suporte ao Cliente,0.5
+Investigar,Discrepâncias,Desenvolvimento,Erro,1.75
+Investigar,Documentação,Operacional,Documentação,7.25
+Investigar,Email,Operacional,Suporte Interno,1.5
+Investigar,Erros,Operacional,Suporte ao Cliente,2
+Investigar,Erros,Operacional,Suporte Interno,3.25
+Investigar,Erros,Operacional,Suporte Interno,3.5
+Investigar,Figuras,Desenvolvimento,Erro,9
+Investigar,Filtro,Desenvolvimento,Erro,0.5
+Investigar,Firewall,Operacional,Consultoria,0.5
+Investigar,Firewall,Operacional,Consultoria,1
+Investigar,Firewall,Operacional,Suporte Interno,1.25
+Investigar,Fluxo,Desenvolvimento,Aprimoramento,31
+Investigar,Formatação,Operacional,Suporte Interno,11
+Investigar,Gerador,Desenvolvimento,Aprimoramento,7
+Investigar,Implantação,Operacional,Suporte Interno,19.75
+Investigar,Impressão,Desenvolvimento,Aprimoramento,1.09
+Investigar,LAN,Operacional,Consultoria,11.75
+Investigar,Laptop,Operacional,Suporte Interno,13.75
+Investigar,Login,Operacional,Suporte Interno,2.75
+Investigar,Mensagem,Desenvolvimento,Erro,2.75
+Investigar,Mensagem,Operacional,Suporte Interno,4
+Investigar,Mensagem,Operacional,Suporte ao Cliente,11.5
+Investigar,Movimento,Desenvolvimento,Erro,1
+Investigar,Opção,Operacional,Suporte Interno,2.5
+Investigar,Opção,Operacional,Suporte ao Cliente,1
+Investigar,Planilha,Desenvolvimento,Aprimoramento,19
+Investigar,Programa,Desenvolvimento,Teste,2
+Investigar,Relatório,Desenvolvimento,Erro,2.1
+Investigar,Requisitos,Operacional,Suporte Interno,6
+Investigar,Segurança,Operacional,Suporte Interno,5.75
+Investigar,Servidor,Operacional,Suporte Interno,2.5
+Investigar,Sistema,Desenvolvimento,Aprimoramento,34.01
+Investigar,Sistema,Operacional,Suporte Interno,37.5
+Investigar,SQL,Operacional,Suporte Interno,1.25
+Investigar,SQL,Operacional,Suporte ao Cliente,4
+Investigar,SQL,Operacional,Suporte Interno,4.5
+Investigar,SQL,Operacional,Suporte Interno,19.25
+Investigar,SQL Server,Operacional,Suporte ao Cliente,1.25
+Investigar,Teste,Desenvolvimento,Aprimoramento,6.85
+Investigar,Validação,Desenvolvimento,Erro,4.5
+Investigar,Velocidade,Operacional,Consultoria,0.25
+Investigar,VPN,Operacional,Consultoria,0.25
+Investigar,VPN,Operacional,Consultoria,0.25
+Investigar,VPN,Operacional,Consultoria,7.25
+Melhorar,Acesso,Desenvolvimento,Aprimoramento,5.75
+Melhorar,Caixa,Desenvolvimento,Aprimoramento,2.5
+Melhorar,Comparador,Desenvolvimento,Aprimoramento,6.5
+Melhorar,Consulta,Desenvolvimento,Aprimoramento,9.25
+Melhorar,Filtro,Desenvolvimento,Aprimoramento,7.52
+Melhorar,Front-end,Desenvolvimento,Aprimoramento,6.25
+Melhorar,Funcionalidade,Desenvolvimento,Aprimoramento,10
+Melhorar,Funcionalidade,Desenvolvimento,Aprimoramento,10.75
+Melhorar,Funcionalidade,Desenvolvimento,Erro,16
+Melhorar,Grade,Desenvolvimento,Aprimoramento,3.5
+Melhorar,Menu,Desenvolvimento,Aprimoramento,8.25
+Melhorar,Movimento,Operacional,Suporte ao Cliente,8.25
+Melhorar,Pesquisa,Desenvolvimento,Aprimoramento,3.5
+Melhorar,Processamento,Desenvolvimento,Aprimoramento,8
+Melhorar,Processamento,Desenvolvimento,Aprimoramento,11.5
+Melhorar,Relatório,Desenvolvimento,Aprimoramento,4.87
+Melhorar,Resolução,Desenvolvimento,Aprimoramento,1.75
+Melhorar,Sistema,Operacional,Suporte ao Cliente,6.5
+Mesclar,Alterações,Desenvolvimento,Lançamento,0.5
+Mesclar,Alterações,Desenvolvimento,Lançamento,0.75
+Mesclar,Alterações,Desenvolvimento,Aprimoramento,6
+Mesclar,Alterações,Desenvolvimento,Aprimoramento,9.5
+Mesclar,Banco,Desenvolvimento,Lançamento,4
+Mesclar,Banco,Desenvolvimento,Aprimoramento,7.5
+Mesclar,Banco,Desenvolvimento,Aprimoramento,11.25
+Mesclar,Código,Desenvolvimento,Aprimoramento,12.55
+Mesclar,Documentação,Desenvolvimento,Aprimoramento,21.25
+Mesclar,Funcionalidade,Desenvolvimento,Aprimoramento,6.97
+Mesclar,Versão,Desenvolvimento,Aprimoramento,7
+Migrar,Arquivos,Operacional,Suporte Interno,4.5
+Migrar,Dados,Operacional,Suporte Interno,2
+Migrar,Dados,Desenvolvimento,Aprimoramento,22
+Migrar,Descrição,Desenvolvimento,Aprimoramento,39.17
+Migrar,Pesquisa,Desenvolvimento,Aprimoramento,5
+Migrar,Tela,Desenvolvimento,Aprimoramento,29.63
+Migrar,Tela,Desenvolvimento,Aprimoramento,30.5
+Migrar,Tela,Desenvolvimento,Aprimoramento,36.48
+Obter,Ambiente de Hospedagem,Operacional,Suporte Interno,11.8
+Obter,Banco,Desenvolvimento,Treinamento,4
+Obter,Calendário,Desenvolvimento,Erro,1
+Obter,Código,Desenvolvimento,Teste,1
+Obter,Código,Desenvolvimento,Treinamento,1.5
+Obter,Configuração,Operacional,Suporte ao Cliente,1
+Obter,Correções,Desenvolvimento,Aprimoramento,7
+Obter,Dados,Desenvolvimento,Erro,3
+Obter,Dados,Desenvolvimento,Aprimoramento,4.25
+Obter,Dados,Desenvolvimento,Aprimoramento,6.22
+Obter,Documentação,Desenvolvimento,Erro,7
+Obter,Documentação,Desenvolvimento,Aprimoramento,9
+Obter,Formulário,Desenvolvimento,Aprimoramento,2.5
+Obter,Licença,Operacional,Suporte Interno,1
+Obter,Relatórios,Desenvolvimento,Aprimoramento,1
+Obter,Servidor,Desenvolvimento,Aprimoramento,2.18
+Obter,Sistema,Gestão,Marketing,1.5
+Obter,Sistema,Desenvolvimento,Aprimoramento,3
+Obter,Validação,Desenvolvimento,Aprimoramento,5
+Obter,Versão,Desenvolvimento,Lançamento,1.5
+Obter,Versão,Operacional,Suporte Interno,3.75
+Obter,Versão,Desenvolvimento,Suporte Interno,2.5
+Organizar,Atualização,Operacional,Suporte Interno,2.75
+Organizar,Banco,Desenvolvimento,Aprimoramento,10
+Organizar,Custos,Operacional,Suporte ao Cliente,7.75
+Organizar,Demonstração,Desenvolvimento,Suporte Interno,2
+Organizar,Demonstração,Gestão,Marketing,3
+Organizar,Demonstração,Gestão,Marketing,3.5
+Organizar,Demonstração,Gestão,Marketing,4
+Organizar,Demonstração,Desenvolvimento,Aprimoramento,26
+Organizar,Documentação,Operacional,Suporte Interno,4.5
+Organizar,Documentação,Desenvolvimento,Teste,21
+Organizar,Email,Operacional,Suporte Interno,1.25
+Organizar,Escritórios,Operacional,Suporte Interno,16.5
+Organizar,Gerador,Desenvolvimento,Erro,2.56
+Organizar,Instalação,Operacional,Suporte Interno,6
+Organizar,Instalação,Operacional,Suporte Interno,7
+Organizar,Laptop,Operacional,Suporte Interno,7.5
+Organizar,Mensagem,Operacional,Suporte ao Cliente,13.25
+Organizar,Migração,Operacional,Suporte Interno,19.25
+Organizar,Propostas,Operacional,Suporte Interno,3.25
+Organizar,Referência,Operacional,Suporte Interno,7
+Organizar,Renovação de Licenças,Operacional,Suporte Interno,1
+Organizar,Reunião,Desenvolvimento,Treinamento,1.75
+Organizar,Servidor,Operacional,Suporte Interno,3
+Organizar,Servidor,Operacional,Suporte Interno,51.25
+Organizar,Sistema,Operacional,Suporte Interno,3.5
+Organizar,Sistema,Operacional,Suporte ao Cliente,4.75
+Organizar,SQL,Operacional,Suporte Interno,31
+Organizar,Tarefas,Gestão,Marketing,1.75
+Permitir,Alinhamento,Desenvolvimento,Aprimoramento,2
+Permitir,Alinhamento,Desenvolvimento,Aprimoramento,2.5
+Permitir,Arrastar,Desenvolvimento,Aprimoramento,7
+Permitir,Atualização Automática,Desenvolvimento,Aprimoramento,4
+Permitir,Caixa,Desenvolvimento,Aprimoramento,2.25
+Permitir,Caixa,Desenvolvimento,Erro,0.75
+Permitir,Campo,Desenvolvimento,Aprimoramento,1.5
+Permitir,Coluna,Desenvolvimento,Aprimoramento,3.5
+Permitir,Controle,Desenvolvimento,Aprimoramento,1.5
+Permitir,Entrada,Desenvolvimento,Aprimoramento,1.75
+Permitir,Exclusão,Desenvolvimento,Aprimoramento,0.1
+Permitir,Formulários,Desenvolvimento,Aprimoramento,6.75
+Permitir,Funcionalidade,Desenvolvimento,Aprimoramento,4.5
+Permitir,Gerador,Desenvolvimento,Aprimoramento,2.5
+Permitir,Menu,Desenvolvimento,Aprimoramento,10
+Permitir,Movimento,Desenvolvimento,Aprimoramento,5
+Permitir,Nome,Desenvolvimento,Aprimoramento,0.7
+Permitir,Política,Desenvolvimento,Aprimoramento,7
+Permitir,Procedimentos,Desenvolvimento,Aprimoramento,6
+Permitir,Usuário,Desenvolvimento,Aprimoramento,0.75
+Permitir,Validação,Desenvolvimento,Aprimoramento,4.25
+Pesquisa,Código,Desenvolvimento,Erro,7
+Pesquisa,Estatística,Desenvolvimento,Aprimoramento,2
+Pesquisa,Marketing,Gestão,Marketing,10
+Pesquisa,Objeto de Negócio,Desenvolvimento,Erro,3.5
+Pesquisa,Sistema,Desenvolvimento,Aprimoramento,0.75
+Pesquisa,SQL,Operacional,Suporte Interno,25
+Pesquisa,Tela,Desenvolvimento,Aprimoramento,1.5
+Remover,Banco,Desenvolvimento,Aprimoramento,2
+Remover,Caixa,Desenvolvimento,Aprimoramento,0.55
+Remover,Caixa,Desenvolvimento,Aprimoramento,1.05
+Remover,Campo,Desenvolvimento,Aprimoramento,0.5
+Remover,Campo,Desenvolvimento,Aprimoramento,1.25
+Remover,Campo,Desenvolvimento,Aprimoramento,2
+Remover,Casas decimais,Desenvolvimento,Aprimoramento,0.5
+Remover,Conta,Operacional,Suporte Interno,0.5
+Remover,Dados,Desenvolvimento,Aprimoramento,2
+Remover,Funcionalidade,Desenvolvimento,Aprimoramento,5.5
+Remover,Itens,Desenvolvimento,Aprimoramento,7
+Remover,Limites,Desenvolvimento,Aprimoramento,0.25
+Remover,Relatórios,Desenvolvimento,Aprimoramento,0.5
+Remover,Usuário,Operacional,Suporte ao Cliente,2
+Remover,Validação,Desenvolvimento,Aprimoramento,1
+Reunião,Atualização,Operacional,Suporte ao Cliente,1.5
+Reunião,Equipe,Gestão,Reunião de Gestão,8
+Reunião,Equipe,Gestão,Reunião de progresso,8
+Reunião,Gestão,Gestão,Reunião de Gestão,2
+Reunião,Gestão,Gestão,Reunião de Gestão,2
+Reunião,Gestão,Gestão,Reunião de Gestão,2
+Reunião,Gestão,Gestão,Reunião de Gestão,2
+Reunião,Gestão,Gestão,Reunião de Gestão,2
+Reunião,Gestão,Gestão,Reunião de Gestão,2
+Reunião,Gestão,Gestão,Reunião de progresso,2
+Reunião,Gestão,Gestão,Reunião de Gestão,2.5
+Reunião,Gestão,Gestão,Reunião de Gestão,2.5
+Reunião,Gestão,Gestão,Reunião de Gestão,3
+Reunião,Gestão,Gestão,Reunião de Gestão,3
+Reunião,Gestão,Gestão,Reunião de Gestão,3
+Reunião,Gestão,Gestão,Reunião de progresso,3
+Reunião,Gestão,Gestão,Reunião de progresso,3
+Reunião,Gestão,Gestão,Reunião de Gestão,3.5
+Reunião,Gestão,Gestão,Reunião de Gestão,3.5
+Reunião,Gestão,Gestão,Reunião de Gestão,3.5
+Reunião,Gestão,Gestão,Reunião de Gestão,3.5
+Reunião,Gestão,Gestão,Reunião de Gestão,3.5
+Reunião,Gestão,Gestão,Reunião de Gestão,4
+Reunião,Gestão,Gestão,Reunião de Gestão,4
+Reunião,Gestão,Gestão,Reunião de Gestão,4
+Reunião,Gestão,Gestão,Reunião de Gestão,4
+Reunião,Gestão,Gestão,Reunião de Gestão,4
+Reunião,Gestão,Gestão,Reunião de Gestão,4
+Reunião,Marketing,Gestão,Reunião de Gestão,1.75
+Reunião,Marketing,Gestão,Marketing,4
+Reunião,Particular,Desenvolvimento,Aprimoramento,1
+Reunião,Particular,Gestão,Marketing,1
+Reunião,Particular,Gestão,Reunião de Gestão,1
+Reunião,Particular,Gestão,Reunião de Gestão,1
+Reunião,Particular,Gestão,Reunião de Gestão,1
+Reunião,Particular,Gestão,Reunião de progresso,1
+Reunião,Particular,Gestão,Reunião de progresso,1
+Reunião,Particular,Gestão,Reunião de progresso,1
+Reunião,Particular,Operacional,Suporte ao Cliente,1
+Reunião,Particular,Desenvolvimento,Treinamento,1
+Reunião,Particular,Gestão,Reunião de progresso,1.09
+Reunião,Particular,Gestão,Reunião de Gestão,1.2
+Reunião,Particular,Operacional,Consultoria,1.25
+Reunião,Particular,Gestão,Reunião de progresso,1.25
+Reunião,Particular,Gestão,Reunião de progresso,1.25
+Reunião,Particular,Gestão,Reunião de progresso,1.25
+Reunião,Particular,Gestão,Reunião de progresso,1.25
+Reunião,Particular,Gestão,Marketing,1.5
+Reunião,Particular,Gestão,Marketing,1.5
+Reunião,Particular,Gestão,Marketing,1.5
+Reunião,Particular,Gestão,Marketing,1.5
+Reunião,Particular,Gestão,Marketing,1.5
+Reunião,Particular,Gestão,Reunião de Gestão,1.5
+Reunião,Particular,Gestão,Reunião de Gestão,1.5
+Reunião,Particular,Gestão,Reunião de Gestão,1.5
+Reunião,Particular,Gestão,Reunião de Gestão,1.5
+Reunião,Particular,Gestão,Reunião de Gestão,1.5
+Reunião,Particular,Gestão,Reunião de progresso,1.5
+Reunião,Particular,Gestão,Reunião de progresso,1.5
+Reunião,Particular,Gestão,Reunião de progresso,1.5
+Reunião,Particular,Desenvolvimento,Suporte Interno,1.5
+Reunião,Particular,Desenvolvimento,Suporte Interno,1.5
+Reunião,Particular,Desenvolvimento,Treinamento,1.5
+Reunião,Particular,Gestão,Reunião de progresso,1.7
+Reunião,Particular,Gestão,Marketing,1.75
+Reunião,Particular,Gestão,Reunião de progresso,1.75
+Reunião,Particular,Desenvolvimento,Treinamento,1.75
+Reunião,Particular,Gestão,Marketing,2
+Reunião,Particular,Gestão,Marketing,2
+Reunião,Particular,Gestão,Marketing,2
+Reunião,Particular,Gestão,Marketing,2
+Reunião,Particular,Gestão,Marketing,2
+Reunião,Particular,Gestão,Marketing,2
+Reunião,Particular,Gestão,Marketing,2
+Reunião,Particular,Gestão,Marketing,2
+Reunião,Particular,Gestão,Marketing,2
+Reunião,Particular,Gestão,Marketing,2
+Reunião,Particular,Gestão,Reunião de Gestão,2
+Reunião,Particular,Gestão,Reunião de Gestão,2
+Reunião,Particular,Gestão,Reunião de Gestão,2
+Reunião,Particular,Gestão,Reunião de Gestão,2
+Reunião,Particular,Gestão,Reunião de progresso,2
+Reunião,Particular,Gestão,Reunião de progresso,2
+Reunião,Particular,Operacional,Suporte ao Cliente,2
+Reunião,Particular,Operacional,Suporte ao Cliente,2
+Reunião,Particular,Desenvolvimento,Suporte Interno,2
+Reunião,Particular,Operacional,Suporte Interno,2
+Reunião,Particular,Gestão,Reunião de Gestão,2.2
+Reunião,Particular,Operacional,Suporte Interno,2.25
+Reunião,Particular,Gestão,Marketing,2.5
+Reunião,Particular,Gestão,Marketing,2.5
+Reunião,Particular,Gestão,Marketing,2.5
+Reunião,Particular,Gestão,Marketing,2.5
+Reunião,Particular,Gestão,Marketing,2.5
+Reunião,Particular,Gestão,Marketing,2.5
+Reunião,Particular,Gestão,Reunião de Gestão,2.5
+Reunião,Particular,Gestão,Reunião de Gestão,2.5
+Reunião,Particular,Gestão,Reunião de progresso,2.5
+Reunião,Particular,Gestão,Marketing,3
+Reunião,Particular,Gestão,Marketing,3
+Reunião,Particular,Gestão,Marketing,3
+Reunião,Particular,Gestão,Marketing,3
+Reunião,Particular,Gestão,Marketing,3
+Reunião,Particular,Gestão,Marketing,3
+Reunião,Particular,Gestão,Marketing,3
+Reunião,Particular,Gestão,Reunião de progresso,3
+Reunião,Particular,Desenvolvimento,Suporte Interno,3
+Reunião,Particular,Gestão,Reunião de Gestão,3.2
+Reunião,Particular,Gestão,Reunião de progresso,3.25
+Reunião,Particular,Gestão,Marketing,3.5
+Reunião,Particular,Gestão,Marketing,3.5
+Reunião,Particular,Gestão,Marketing,3.5
+Reunião,Particular,Gestão,Marketing,3.5
+Reunião,Particular,Gestão,Marketing,3.5
+Reunião,Particular,Gestão,Marketing,3.5
+Reunião,Particular,Gestão,Reunião de Gestão,3.5
+Reunião,Particular,Gestão,Reunião de Gestão,3.5
+Reunião,Particular,Gestão,Reunião de Gestão,3.5
+Reunião,Particular,Desenvolvimento,Treinamento,3.5
+Reunião,Progresso,Gestão,Reunião de progresso,2
+Reunião,Progresso,Desenvolvimento,Suporte Interno,5.5
+Reunião,Semana,Desenvolvimento,Treinamento,9
+Reunião,Semana,Desenvolvimento,Treinamento,9
+Reunião,Semana,Desenvolvimento,Treinamento,9
+Reunião,Semana,Desenvolvimento,Treinamento,10.5
+Reunião,Semana,Desenvolvimento,Treinamento,10.5
+Reunião,Técnica,Gestão,Reunião de Gestão,4
+Reunião,Técnica,Desenvolvimento,Treinamento,9
+Reunião,Técnica Estendida,Gestão,Reunião de Gestão,13.5
+Reunião,Website,Operacional,Suporte Interno,3
+Semana,Desenvolvedor,Desenvolvimento,Treinamento,9
+Semana,Desenvolvedor,Desenvolvimento,Treinamento,9.75
+Semana,Desenvolvedor,Desenvolvimento,Treinamento,10.5
+Semana,Desenvolvedor,Desenvolvimento,Treinamento,10.5
+Semana,Desenvolvedor,Desenvolvimento,Treinamento,10.5
+Semana,Desenvolvedor,Desenvolvimento,Treinamento,10.5
+Semana,Desenvolvedor,Desenvolvimento,Treinamento,10.5
+Semana,Desenvolvedor,Desenvolvimento,Treinamento,10.5
+Semana,Desenvolvedor,Desenvolvimento,Treinamento,10.5
+Semana,Desenvolvedor,Desenvolvimento,Treinamento,10.5
+Semana,Desenvolvedor,Desenvolvimento,Treinamento,10.8
+Sincronizar,Alterações,Desenvolvimento,Teste,1
+Sincronizar,Alterações,Desenvolvimento,Lançamento,3
+Sincronizar,Alterações,Desenvolvimento,Aprimoramento,6
+Sincronizar,Ambiente de Desenvolvimento,Desenvolvimento,Aprimoramento,1
+Sincronizar,Atualização,Desenvolvimento,Erro,1
+Sincronizar,Banco,Desenvolvimento,Lançamento,0.5
+Sincronizar,Banco,Desenvolvimento,Lançamento,0.75
+Sincronizar,Banco,Desenvolvimento,Aprimoramento,9
+Sincronizar,Banco,Desenvolvimento,Aprimoramento,9.5
+Sincronizar,Banco,Desenvolvimento,Lançamento,9.5
+Sincronizar,Correções,Desenvolvimento,Erro,2
+Sincronizar,Mudanças,Desenvolvimento,Aprimoramento,1
+Sincronizar,Pesquisa,Desenvolvimento,Aprimoramento,0.5
+Sincronizar,Tabelas,Desenvolvimento,Aprimoramento,2.5
+Sincronizar,Tabelas,Desenvolvimento,Aprimoramento,8.75
+Sincronizar,Teste,Desenvolvimento,Lançamento,0.5
+Sincronizar,Teste,Desenvolvimento,Suporte Interno,6
+Suporte,Particular,Desenvolvimento,Treinamento,0.75
+Suporte,Particular,Operacional,Suporte ao Cliente,3.5
+Suporte,Particular,Desenvolvimento,Suporte Interno,0.33
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Semana,Desenvolvimento,Suporte Interno,7
+Suporte,Setup,Desenvolvimento,Lançamento,0.25
+Suporte,Setup,Desenvolvimento,Lançamento,0.25
+Suporte,Setup,Desenvolvimento,Lançamento,0.25
+Suporte,Usuário,Desenvolvimento,Erro,0.5
+Suporte,Usuário,Desenvolvimento,Erro,0.5
+Suporte,Usuário,Desenvolvimento,Erro,0.5
+Suporte,Usuário,Desenvolvimento,Erro,0.5
+Suporte,Usuário,Desenvolvimento,Erro,0.5
+Suporte,Usuário,Desenvolvimento,Lançamento,0.5
+Suporte,Usuário,Desenvolvimento,Lançamento,0.5
+Suporte,Usuário,Desenvolvimento,Lançamento,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.5
+Suporte,Usuário,Desenvolvimento,Suporte Interno,0.5
+Suporte,Usuário,Desenvolvimento,Suporte Interno,0.5
+Suporte,Usuário,Desenvolvimento,Suporte Interno,0.5
+Suporte,Usuário,Desenvolvimento,Suporte Interno,0.5
+Suporte,Usuário,Desenvolvimento,Suporte Interno,0.5
+Suporte,Usuário,Desenvolvimento,Suporte Interno,0.5
+Suporte,Usuário,Desenvolvimento,Suporte Interno,0.5
+Suporte,Usuário,Desenvolvimento,Suporte Interno,0.5
+Suporte,Usuário,Desenvolvimento,Suporte Interno,0.5
+Suporte,Usuário,Desenvolvimento,Suporte Interno,0.5
+Suporte,Usuário,Desenvolvimento,Treinamento,0.5
+Suporte,Usuário,Desenvolvimento,Erro,0.75
+Suporte,Usuário,Desenvolvimento,Erro,0.75
+Suporte,Usuário,Desenvolvimento,Erro,0.75
+Suporte,Usuário,Desenvolvimento,Erro,0.75
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.75
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.75
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.75
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.75
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.75
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.75
+Suporte,Usuário,Operacional,Suporte ao Cliente,0.75
+Suporte,Usuário,Desenvolvimento,Suporte Interno,0.75
+Suporte,Usuário,Desenvolvimento,Suporte Interno,0.75
+Suporte,Usuário,Desenvolvimento,Suporte Interno,0.75
+Suporte,Usuário,Desenvolvimento,Suporte Interno,0.75
+Suporte,Usuário,Desenvolvimento,Suporte Interno,0.75
+Suporte,Usuário,Desenvolvimento,Suporte Interno,0.75
+Suporte,Usuário,Desenvolvimento,Aprimoramento,1
+Suporte,Usuário,Desenvolvimento,Erro,1
+Suporte,Usuário,Desenvolvimento,Erro,1
+Suporte,Usuário,Desenvolvimento,Erro,1
+Suporte,Usuário,Desenvolvimento,Erro,1
+Suporte,Usuário,Operacional,Suporte ao Cliente,1
+Suporte,Usuário,Operacional,Suporte ao Cliente,1
+Suporte,Usuário,Operacional,Suporte ao Cliente,1
+Suporte,Usuário,Operacional,Suporte ao Cliente,1
+Suporte,Usuário,Operacional,Suporte ao Cliente,1
+Suporte,Usuário,Operacional,Suporte ao Cliente,1
+Suporte,Usuário,Operacional,Suporte ao Cliente,1
+Suporte,Usuário,Operacional,Suporte ao Cliente,1
+Suporte,Usuário,Operacional,Suporte ao Cliente,1
+Suporte,Usuário,Desenvolvimento,Suporte Interno,1
+Suporte,Usuário,Desenvolvimento,Suporte Interno,1
+Suporte,Usuário,Desenvolvimento,Suporte Interno,1
+Suporte,Usuário,Desenvolvimento,Suporte Interno,1
+Suporte,Usuário,Operacional,Suporte ao Cliente,1.25
+Suporte,Usuário,Operacional,Suporte ao Cliente,1.25
+Suporte,Usuário,Operacional,Suporte ao Cliente,1.25
+Suporte,Usuário,Operacional,Suporte ao Cliente,1.25
+Suporte,Usuário,Desenvolvimento,Suporte Interno,1.25
+Suporte,Usuário,Desenvolvimento,Suporte Interno,1.25
+Suporte,Usuário,Desenvolvimento,Treinamento,1.25
+Suporte,Usuário,Desenvolvimento,Aprimoramento,1.5
+Suporte,Usuário,Desenvolvimento,Erro,1.5
+Suporte,Usuário,Desenvolvimento,Erro,1.5
+Suporte,Usuário,Desenvolvimento,Lançamento,1.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,1.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,1.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,1.5
+Suporte,Usuário,Operacional,Suporte ao Cliente,1.5
+Suporte,Usuário,Desenvolvimento,Erro,1.6
+Suporte,Usuário,Operacional,Suporte ao Cliente,1.75
+Suporte,Usuário,Desenvolvimento,Suporte Interno,1.75
+Suporte,Usuário,Desenvolvimento,Teste,1.75
+Suporte,Usuário,Operacional,Suporte ao Cliente,2
+Suporte,Usuário,Operacional,Suporte ao Cliente,2
+Testar,Atualização,Operacional,Suporte Interno,2.5
+Testar,Banco,Desenvolvimento,Aprimoramento,8.86
+Testar,Cálculo,Desenvolvimento,Teste,1
+Testar,Carregador,Desenvolvimento,Teste,1.5
+Testar,Carregador,Desenvolvimento,Suporte Interno,3.25
+Testar,Código,Desenvolvimento,Erro,0.75
+Testar,Configuração,Operacional,Suporte ao Cliente,22
+Testar,Correções,Desenvolvimento,Teste,1
+Testar,Correções,Desenvolvimento,Erro,3
+Testar,Correções,Desenvolvimento,Teste,3.5
+Testar,Demonstração,Gestão,Marketing,3.5
+Testar,Demonstração,Gestão,Marketing,4
+Testar,Demonstração,Gestão,Marketing,4
+Testar,Demonstração,Desenvolvimento,Teste,4.5
+Testar,Estatística,Desenvolvimento,Aprimoramento,0.5
+Testar,Estrutura,Desenvolvimento,Teste,2.75
+Testar,Extensão,Operacional,Suporte Interno,53.45
+Testar,Formatação,Operacional,Suporte Interno,14.75
+Testar,Formulário,Desenvolvimento,Aprimoramento,0.5
+Testar,Funcionalidade,Desenvolvimento,Lançamento,10.67
+Testar,Implantação,Operacional,Suporte Interno,65.5
+Testar,Lançamento,Desenvolvimento,Lançamento,2
+Testar,Mensagem,Operacional,Suporte ao Cliente,7
+Testar,Migração,Desenvolvimento,Lançamento,10
+Testar,Programa,Desenvolvimento,Teste,1.25
+Testar,Relatório,Desenvolvimento,Erro,1
+Testar,Relatório,Desenvolvimento,Teste,6.75
+Testar,Segurança,Operacional,Suporte Interno,3
+Testar,Servidor,Operacional,Suporte Interno,46
+Testar,Sistema,Desenvolvimento,Teste,1.5
+Testar,Sistema,Desenvolvimento,Lançamento,2
+Testar,Sistema,Desenvolvimento,Teste,4.5
+Testar,Sistema,Desenvolvimento,Teste,5.25
+Testar,Sistema,Desenvolvimento,Suporte Interno,7.72
+Testar,Sistema (Total),Desenvolvimento,Teste,14
+Testar,Sistema (Total),Desenvolvimento,Teste,29.25
+Testar,SQL Server,Operacional,Suporte Interno,23.5
+Testar,Tarefas,Gestão,Marketing,0.5
+Testar,Usuário,Desenvolvimento,Erro,0.25
+Testar,Usuário,Desenvolvimento,Erro,0.25
+Testar,Usuário,Desenvolvimento,Aprimoramento,0.33
+Testar,Usuário,Desenvolvimento,Erro,0.33
+Testar,Usuário,Desenvolvimento,Erro,0.75
+Testar,Usuário,Desenvolvimento,Erro,0.75
+Testar,Usuário,Desenvolvimento,Erro,1
+Testar,Usuário,Operacional,Suporte ao Cliente,1
+Testar,Usuário,Desenvolvimento,Teste,1.5
+Testar,Usuário,Desenvolvimento,Erro,1.75
+Testar,Versão,Desenvolvimento,Lançamento,2
+Testar,Versão,Desenvolvimento,Suporte Interno,2.5
+Testar,Versão,Gestão,Marketing,12.5
+Testar,Versão,Operacional,Suporte Interno,22
+Treinamento,Programa,Gestão,Suporte ao Cliente,3
+Treinamento,Programa,Desenvolvimento,Treinamento,6
+Treinamento,Usuário,Operacional,Suporte ao Cliente,1
+Treinamento,Usuário,Desenvolvimento,Treinamento,1
+Validar,Entrada,Desenvolvimento,Erro,1.5
+Validar,Front-end,Desenvolvimento,Aprimoramento,3
+Validar,Referências,Desenvolvimento,Aprimoramento,3.3
+Validar,Revisão,Desenvolvimento,Teste,15
+Validar,Teste,Desenvolvimento,Erro,13
+Verificar,Banco,Operacional,Suporte ao Cliente,0.5
+Verificar,Banco,Desenvolvimento,Suporte Interno,3
+Verificar,Banco,Desenvolvimento,Aprimoramento,4.5
+Verificar,Busca,Desenvolvimento,Teste,1
+Verificar,Cálculo,Desenvolvimento,Erro,1.75
+Verificar,Campo,Desenvolvimento,Erro,1
+Verificar,Campo,Desenvolvimento,Teste,1
+Verificar,Carregador,Desenvolvimento,Erro,0.5
+Verificar,Conversão,Desenvolvimento,Aprimoramento,1.75
+Verificar,Dados,Desenvolvimento,Suporte Interno,1
+Verificar,Dados,Operacional,Suporte Interno,1.4
+Verificar,Dados,Desenvolvimento,Aprimoramento,15
+Verificar,Desempenho,Desenvolvimento,Aprimoramento,9.25
+Verificar,Desempenho,Desenvolvimento,Teste,35
+Verificar,Erros,Desenvolvimento,Teste,0.5
+Verificar,Figuras,Desenvolvimento,Aprimoramento,18.4
+Verificar,Integridade,Desenvolvimento,Erro,0.5
+Verificar,Integridade,Operacional,Suporte Interno,0.5
+Verificar,Itens,Desenvolvimento,Teste,35
+Verificar,Laptop,Operacional,Suporte Interno,4
+Verificar,Livro de Figuras,Desenvolvimento,Erro,1
+Verificar,Mudanças,Desenvolvimento,Lançamento,7
+Verificar,Números,Desenvolvimento,Teste,2.5
+Verificar,Números,Desenvolvimento,Teste,3
+Verificar,Procedimentos,Desenvolvimento,Teste,13.5
+Verificar,Procedimentos,Desenvolvimento,Erro,4
+Verificar,Procedimentos,Desenvolvimento,Aprimoramento,5.25
+Verificar,Processamento,Desenvolvimento,Teste,6.5
+Verificar,Propostas,Gestão,Marketing,3.5
+Verificar,Rede,Operacional,Consultoria,8.75
+Verificar,Referências,Desenvolvimento,Erro,2.5
+Verificar,Relatório,Operacional,Suporte Interno,0.5
+Verificar,Relatório,Desenvolvimento,Erro,7
+Verificar,Relatórios,Desenvolvimento,Lançamento,6.78
+Verificar,Robustez,Desenvolvimento,Teste,4.5
+Verificar,Saúde,Operacional,Suporte Interno,2
+Verificar,Saúde,Operacional,Suporte Interno,2.5
+Verificar,Saúde,Operacional,Suporte Interno,2.5
+Verificar,Saúde,Operacional,Suporte Interno,2.75
+Verificar,Saúde,Operacional,Suporte Interno,3.25
+Verificar,Segurança,Operacional,Suporte Interno,3
+Verificar,Servidor,Operacional,Suporte Interno,2
+Verificar,Servidor,Operacional,Suporte Interno,2
+Verificar,Servidor,Operacional,Suporte Interno,2
+Verificar,Servidor,Operacional,Suporte Interno,2
+Verificar,Servidor,Operacional,Suporte Interno,2
+Verificar,Servidor,Operacional,Suporte Interno,2
+Verificar,Servidor,Operacional,Suporte Interno,2.25
+Verificar,Servidor,Operacional,Suporte Interno,2.25
+Verificar,Servidor,Operacional,Suporte Interno,2.25
+Verificar,Servidor,Operacional,Suporte Interno,2.25
+Verificar,Servidor,Operacional,Suporte Interno,2.25
+Verificar,Servidor,Operacional,Suporte Interno,2.25
+Verificar,Servidor,Desenvolvimento,Aprimoramento,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
+Verificar,Servidor,Operacional,Suporte Interno,2.5
